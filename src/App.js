@@ -1,12 +1,12 @@
-import Navbar from './components/Navbar.js';
+import Navbar from "./components/Navbar.js";
 
-import React from 'react';
+import React from "react";
 
 function App() {
   return (
-    <div id='app'>
+    <div id="app">
       <header>
-        <Navbar/>
+        <Navbar />
       </header>
     </div>
   );
